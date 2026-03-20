@@ -69,7 +69,3 @@ python telegram_review_analytics.py
 ## Contributing
 
 Pull requests and issues are welcome.
-
-## License
-
-This project is licensed under the MIT License.
