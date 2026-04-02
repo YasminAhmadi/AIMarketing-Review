@@ -37,35 +37,3 @@ AIMarketing/
 ├── telegram_review_analytics.py
 └── requirements.txt
 ```
-
-## Setup
-
-```bash
-git clone https://github.com/YasminAhmadi/AIMarketing-Review.git
-cd AIMarketing-Review
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the main workflow:
-
-```bash
-python run.py
-```
-
-Optional scripts:
-
-```bash
-python src/review_analysis_toolkit.py
-python telegram_review_analytics.py
-```
-
-## Notes
-
-- Configure your environment variables (for example, API keys) locally in a `.env` file.
-- Do not commit private datasets or credentials.
-
-## Contributing
-
-Pull requests and issues are welcome.
